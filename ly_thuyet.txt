@@ -1,0 +1,21 @@
+﻿1. SOAP là gì?
+ + Viết tắt của Simple Object Access Protocol.
+ + Là một giao thức dựa trên xml để trao đổi thông tin giữa các máy tính.
+ + SOAP là một ứng dụng đặc tả XML.
+
+2. Chú ý:
+- SOAP là một giao thức truyền thông được thiết kế để giao tiếp qua Internet.
+- SOAP cung cấp dữ liệu truyền cho Web services
+- SOAP có thể trao đổi các tài liệu hoàn chỉnh hoặc một gói thủ tục từ xa.
+- SOAP là cách XML định nghĩa thông tin gì được gửi và như thế nào.
+- SOAP cho phép các ứng dụng khách kết nối tới các service từ xa và gọi các phương thức remote.
+
+3. Web Service là gì?
+Web service là một ứng dụng được phân phối qua HTTP. 3 đặc trưng chính là:
+- kiến trúc mở
+- ngôn ngữ minh bạch
+- modun hóa
++ Điểm chính của Web Services là sự minh bạch. server và client có thể được viết trong các ngôn ngữ khác nhau.
++ Web Services có thể được chia làm 2 nhóm: SOAP và REST
++ SOAP: Nó theo một cấu trúc đơn giản, client sử dụng SOAP libraries để xây dựng request và 
+gửi nó tới server. Server sử dụng SOAP libraries để mã hóa request và xây dựng response phù hợp.
